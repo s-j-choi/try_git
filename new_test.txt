@@ -1,3 +1,3 @@
 ## Test of a text file.
-## Test of a text file on a colned git repo.
+## Test of a text file on a cloned git repo.
 
